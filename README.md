@@ -1,2 +1,2 @@
 # Data-Aquisition
-Lecture materials
+Lecture Notes and Material
